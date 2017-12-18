@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf8" ?>
+<loader>
+    <name>xml-loader with webpack</name>
+    <mention>오, 이렇게 만나네 xml-loader야.</mention>
+</loader>
